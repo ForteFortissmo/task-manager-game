@@ -1,7 +1,12 @@
 {
   "resources": [
     {"id":{"name":"bgm_maintheme","path":"sounds/bgm_maintheme/bgm_maintheme.yy",},"order":0,},
-    {"id":{"name":"sprPlayerBug","path":"sprites/sprPlayerBug/sprPlayerBug.yy",},"order":15,},
+    {"id":{"name":"arena_basic","path":"rooms/arena_basic/arena_basic.yy",},"order":0,},
+    {"id":{"name":"sprWall","path":"sprites/sprWall/sprWall.yy",},"order":0,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
+    {"id":{"name":"sprPlayerBug","path":"sprites/sprPlayerBug/sprPlayerBug.yy",},"order":1,},
+    {"id":{"name":"scr_Inputs","path":"scripts/scr_Inputs/scr_Inputs.yy",},"order":1,},
+    {"id":{"name":"scr_PlayerScripts","path":"scripts/scr_PlayerScripts/scr_PlayerScripts.yy",},"order":0,},
     {"id":{"name":"objPlayerBug","path":"objects/objPlayerBug/objPlayerBug.yy",},"order":0,},
   ],
   "Options": [
@@ -17,7 +22,9 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrderNodes": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"arena_basic","path":"rooms/arena_basic/arena_basic.yy",},},
+  ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
