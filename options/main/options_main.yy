@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "option_gameguid": "2a8644d7-0cce-4453-a5ba-7c122a81438d",
-=======
-  "option_gameguid": "be63cca9-c8b0-42c3-a4ed-12d0a4d3c14a",
->>>>>>> 19710a3144396414d5dbb0a59c1019979f71e337
+  "option_gameguid": "949ca898-d2ed-463f-9309-63c0deba030e",
   "option_gameid": "0",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
@@ -12,13 +8,8 @@
   "option_steam_app_id": "0",
   "option_sci_usesci": false,
   "option_author": "",
-<<<<<<< HEAD
-  "option_collision_compatibility": true,
-  "option_copy_on_write_enabled": true,
-=======
   "option_collision_compatibility": false,
   "option_copy_on_write_enabled": false,
->>>>>>> 19710a3144396414d5dbb0a59c1019979f71e337
   "option_lastchanged": "",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
